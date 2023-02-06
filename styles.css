@@ -1,0 +1,62 @@
+.congratulations {
+    margin-top: 10%;
+    text-align: center;
+  }
+
+.showGiftButtonContainer {
+  margin-top: 10%;
+  text-align: center;
+}
+
+.gift-greeting-container {
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.gift-image {
+  width: 80%;
+  border-radius: 10%;
+}
+
+.gift-image-container {
+  margin-top: 20%;
+  text-align: center;
+
+}
+
+.schedule-asap {
+  font-style: italic;
+  font-size: small;
+}
+
+.schedule-asap-container {
+  text-align: center;
+  margin-top: 30%;
+  margin-bottom: 10%;
+}
+
+.background-image {
+  background-image: url('images/2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -80%;
+}
+
+body {
+  font-family: 'Caveat', cursive;
+  font-family: 'Playfair Display', serif;
+  background-color: #BDCDD6;
+}
+
+html {
+  background-color: #BDCDD6;
+}
+
+.grats-1 {
+  color: #6096B4;
+}
+
+.grats-2 {
+  color: #6096B4;
+}
